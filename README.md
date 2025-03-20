@@ -27,7 +27,7 @@ This is the mobile application for the **Student Complaint Ticketing and Resolut
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohammed-Ehap-Ali-Zean-Al-Abdin/Student-Complaint-Ticketing-and-Resolution-System.git
+   git clone https://github.com/Gingerbread-Team/Student-Complaint-Ticketing-and-Resolution-System.git
    cd Student-Complaint-Ticketing-and-Resolution-System
    ```
 
